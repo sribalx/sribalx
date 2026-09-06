@@ -61,7 +61,7 @@
 - [Coco](https://devpost.com/software/coco-vqaoxs) - A phone companion for elderly users, powered with AI voice agents (Top Prize, UWB Hacks 2026)
 - [Draco](https://devpost.com/software/draco-an-ide-for-wenyan-lang-made-with-wenyan-lang) - A wenyan-lang (Chinese language) based IDE for wenyan-lang programming (Top Prize, NUS Hack&Roll 2025)
 - [autoMATE](https://github.com/sribalx/autoMATE) - A SaaS recommendation tool powered by AI agents (CalHacks 2025)
-- [NoodleGuard](https://www.linkedin.com/posts/sricharanbala_1st-runner-up-hacx-2024-organised-by-htx-activity-7260123274330701826-462T?utm_source=share&utm_medium=member_desktop&rcm=ACoAADboEosBHaqj0kbgWfm6L50yBFzgSMP4QR0) - A more hardware hack to reduce property damage when firefighters rappel (1st Runner-Up, HTX-Microsoft HacX 2024)
+- [NoodleGuard](https://www.linkedin.com/posts/sricharanbala_1st-runner-up-hacx-2024-organised-by-htx-activity-7260123274330701826-462T?utm_source=share&utm_medium=member_desktop&rcm=ACoAADboEosBHaqj0kbgWfm6L50yBFzgSMP4QR0) - A more hardware hack to reduce damage when firefighters rappel (1st Runner-Up, HTX-Microsoft HacX 2024)
 
 ### 🛠️ Some of my non-professional projects
 - [ShardCache](https://github.com/sribalx/shard_cache) - A concurrent in-memory key-value cache server in Go
