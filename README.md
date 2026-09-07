@@ -3,7 +3,7 @@
 - 👋🏻 I'm Sri, nice to meet you!
 - 📚 I'm a penultimate student in NTU's Renaissance Engineering Programme, specialising in Computer Science
 - 🐻 I also did a year abroad at UC Berkeley, doing Computer Science
-- ⛰️ I'm a big fan of hiking; been to the Himalayas multiple times, done Patagonia, Acatenango and several US national parks
+- ⛰️ I really love hiking; been to the Himalayas multiple times, Patagonia, Acatenango, Chamonix and several US national parks
 
 ### 👨‍💻 I've built with...
 
